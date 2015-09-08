@@ -1,3 +1,4 @@
 # LearnBasic
 html, css, javascript, php, ...
-###CSS  clear: Float -> Done
+
+#####CSS Layout - inline-bloc -> Half Done
